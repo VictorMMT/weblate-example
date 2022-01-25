@@ -1,6 +1,79 @@
 {
-  "Hello, world!\n": "Ahoj světe!\n",
-  "Orangutan has %d banana.\n": "",
-  "Try Weblate at https://demo.weblate.org/!\n": "",
-  "Thank you for using Weblate.": ""
+  "SearchFolderEdit": {
+    "SearchFolderEdit_GroupHeader": "Filter Criteria",
+    "Add_Button": "Add",
+    "Remove_Button": "Remove",
+    "SearchTable_Field_DataGridHeader": "Field",
+    "SearchTable_Operator_DataGridHeader": "Operator",
+    "SearchTable_Argument_DataGridHeader": "Argument"
+  },
+  "ProgressCircular": {
+    "ProgressCircular_Wait_Message": "Please wait..."
+  },
+  "TimeSpanPicker": {
+    "TimeSpanPicker_DaysDuration_Label": "Days"
+  },
+  "DateTimePicker": {
+    "DateTimePicker_DateDuration_Label": "Date",
+    "DateTimePicker_TimeDuration_Label": "Time"
+  },
+  "DataTable": {
+    "DataTable_PageOfRecords_Label": "Page {page} of {pageCount} ({length} records)",
+    "DataTable_RowsPerPage_Label": "Rows per page"
+  },
+  "ChipList": {
+    "ChipList_SelectAnOptionOrCreateOne_ToolTip": "Select an option or create one.",
+    "ChipList_Placeholder_Create_Label": "Create"
+  },
+  "Validation": {
+    "NumberMinimum_ValidationMessage": "The number must be higher than {count}",
+    "NumberMaximum_ValidationMessage": "The number must be lower than {count}",
+    "TextLengthMaximum_ValidationMessage": "Please use maximum {maxNum} characters",
+    "TextIsNotEmptyOrWhiteSpace_ValidationMessage": "This field should contain a value.",
+    "CannotBeNullOrUndefined_ValidationMessage": "This field is required.",
+    "IntegerValidator_ValidationMessage": "The value must be an integer number",
+    "FloatingNumber_ValidationMessage": "The value must be a float number",
+    "UUID_ValidationMessage": "This field is not a valid UUID.",
+    "InternalId_ValidationMessage": "This is not a valid format for an internal ID.",
+    "DecimalPlaces_ValidationMessage": "Maximum {maxDecimalPlaces} decimal places.",
+    "CollectionCount_ValidationMessage": "Please use maximum {maxNrItems} items",
+    "Email_ValidationMessage": "Invalid e-mail.",
+    "Timespan_ValidationMessage": "This field is not a valid timespan.",
+    "DateTime_ValidationMessage": "This field is not a valid datetime."
+  },
+  "UnitValuePair": {
+    "PastDays_SelectionOption": "Past Days",
+    "PastWeeks_SelectionOption": "Past Weeks",
+    "PastMonths_SelectionOption": "Past Months",
+    "PastYears_SelectionOption": "Past Years"
+  },
+  "EnumTimeSelection": {
+    "Today_SelectionOption": "Today",
+    "ThisWeek_SelectionOption": "This Week",
+    "ThisMonth_SelectionOption": "This Month",
+    "ThisYear_SelectionOption": "This Year"
+  },
+  "SearchFolderOperatorSelection": {
+    "Equal_SelectionOption": "Equal",
+    "NotEqualTo_SelectionOption": "Not Equal To",
+    "IsEmpty_SelectionOption": "Is Empty",
+    "IsNotEmpty_SelectionOption": "Is Not Empty",
+    "Contains_SelectionOption": "Contains",
+    "DoesNotContain_SelectionOption": "Does Not Contain",
+    "StartsWith_SelectionOption": "Starts With",
+    "OneOf_SelectionOption": "One Of",
+    "GreaterThan_SelectionOption": "Greater Than",
+    "GreaterThanOrEqual_SelectionOption": "Greater Than Or Equal",
+    "LessThan_SelectionOption": "Less Than",
+    "LessThanOrEqual_SelectionOption": "Less Than Or Equal",
+    "OlderThan_SelectionOption": "Older Than",
+    "NotOlderThan_SelectionOption": "Not Older Than",
+    "Before_SelectionOption": "Before",
+    "After_SelectionOption": "After",
+    "Is_SelectionOption": "Is",
+    "IsNot_SelectionOption": "Is Not",
+    "IsWithin_SelectionOption": "Is Within",
+    "IsNotWithin_SelectionOption": "Is Not Within"
+
+  }
 }
